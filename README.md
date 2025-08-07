@@ -33,8 +33,9 @@ I believe in learning by doing — debugging, rewriting, and improving over time
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AMIYA-debug&show_icons=true&hide_rank=true&theme=github_dark&hide_title=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-pie.vercel.app/api/pie?username=AMIYA-debug&theme=github_dark" alt="Languages Pie Chart" />
 </p>
+
 
 
 <p align="center">
