@@ -3,7 +3,7 @@
 
 ---
 
-I believe in learning by doing — debugging, rewriting, and improving over time.
+I believe in learning by doing - debugging, rewriting, and improving over time.
 
 ---
 
